@@ -21,4 +21,4 @@ Overall, this mini-project demonstrates the practical application of web scrapin
 ![image](https://github.com/yash733/NIRf_data_Web_Scraping/assets/100533686/68e16045-f3f4-4f24-9cbf-30908002a52d)
 
 
-https://www.linkedin.com/in/yash-gupta-225493230
+## https://www.linkedin.com/in/yash-gupta09
